@@ -1,0 +1,11 @@
+body{
+    background-image: url(/images/background.gif);
+    width: 10;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background{
+    background-color: whitesmoke;
+    border: 3px solid black;
+}
