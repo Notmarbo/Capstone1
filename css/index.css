@@ -1,7 +1,6 @@
 .navbar {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 
-
 }
 
 footer {
@@ -13,6 +12,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+
+	
 }
 .container{
 	padding-right: 0%;
@@ -78,4 +79,7 @@ small.justify-content-center {
 	.col-sm-4 {
 		margin-bottom: 50px;
 	}
+}
+.checkbox{
+	text-align: start;
 }
