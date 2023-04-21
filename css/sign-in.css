@@ -1,8 +1,9 @@
-.background{
+.background {
     background-color: whitesmoke;
     border: 3px solid black;
 }
-.video-container{
+
+.video-container {
     left: 50%;
     min-height: auto;
     min-width: 100%;

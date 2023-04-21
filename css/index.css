@@ -13,9 +13,10 @@ body {
 	flex-direction: column;
 	min-height: 100vh;
 
-	
+
 }
-.container{
+
+.container {
 	padding-right: 0%;
 }
 
@@ -80,7 +81,7 @@ small.justify-content-center {
 		margin-bottom: 50px;
 	}
 }
-.checkbox{
+
+.checkbox {
 	text-align: start;
 }
-    
